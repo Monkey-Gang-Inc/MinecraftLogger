@@ -17,3 +17,4 @@ A logger for minecraft version 1.21.1. This is for **educational use ONLY**! Thi
 
 ## Why?
 I cannot specifiy this enough, please check minecraft mods before running. 2 Classes is all it takes to potentially have your personal information stolen.
+![example](https://github.com/Monkey-Gang-Inc/MinecraftLogger/blob/main/image.png)
